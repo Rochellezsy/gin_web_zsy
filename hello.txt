@@ -1,0 +1,9 @@
+<h1 style='color:blue'>Hello Rochelle</h1>
+<h2>Fighting!</h2>
+<img id='i1' src='http://5b0988e595225.cdn.sohucs.com/images/20180616/1710b8b49c4f4dcf8b8409f3a3938d40.jpeg'>
+<button id='b1'>点一下</button>
+<script>
+document.getElementById('b1').onclick=function(){
+    document.getElementById('i1').src='https://n.sinaimg.cn/sinacn10122/140/w936h804/20191002/9451-ifmectk6130179.jpg'
+}
+</script>
